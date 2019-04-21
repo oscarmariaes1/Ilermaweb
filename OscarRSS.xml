@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+
+ <title>El Blog de Oscar</title>
+ <link>https://unax.updog.co/?t=1554779411S</link>
+ <description>Ofrezco varias secciones de notacias relacionadas con temas de actualidad, tecnologia, moda,... </description>
+
+<item>
+<title>La frase del día</title>
+ <link>Dirección Web a la que podemos ir para ampliar
+ esta información</link>
+ <description>Cada día se busca en la web información relevante y se construye una frase que aglutine dicha información</description> 
+
+</channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+ <channel>
+    <title>El Blog de Oscar</title>
+    <link>https://unax.updog.co/feed.xml</link>
+    <description>Ofrezco varias secciones de notacias relacionadas con temas de actualidad, tecnologia, moda,... </description>
+    
+<item>
+    <title>La frase del día</title>
+    <link>https://proverbia.net/frase-del-dia</link>
+    <guid>https://proverbia.net/frase-del-dia/2</guid>
+    <description>Cada dia se busca en la web informacion relevante y se construye una frase que aglutine dicha informacion</description>
+ </item>
+ <item>
+<title>Acceso a los mass media de todo el mundo </title>
+<link>https://www.todalaprensa.com/</link>
+<guid>https://www.todalaprensa.com/345</guid>
+<description>Pagina web que ofrece acceso a la prensa mundial, revistas y radios
+</description>
+</item>
+<item>
+<title>Informacion sobre tecnologia y gadget</title>
+<link>https://www.xataka.com/</link>
+<guid>https://www.xataka.com/23</guid>
+<description>
+Informacion sobre tecnologia,electronica y moviles
+</description>
+</item>
+<item>
+<title>La programacion al dia</title>
+<link>https://www.lawebdelprogramador.com/</link>
+<guid>https://www.lawebdelprogramador.com/432</guid>
+<description>
+Pagina dedicada al mundo de la programación e internet. Aquí puedes encontrar todo tipo de información relacionada, Cursos, Trabajos, Documentos,
+</description>
+</item>
+<item>
+<title>Ciencia, naturaleza, tecnología, innovación...</title>
+<link>https://www.muyinteresante.es/</link>
+<guid>https://www.muyinteresante.es/2221</guid>
+<description>
+Muy Interesante: ciencia, naturaleza, tecnología, innovación, salud, historia, curiosidades, preguntas y respuestas. La ciencia amena y divertida
+</description>
+</item>
+</channel>
+</rss>
